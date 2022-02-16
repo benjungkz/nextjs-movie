@@ -1,3 +1,3 @@
 export default function NotFound(){
-    return "no..."
+    return "There is no page"
 }
